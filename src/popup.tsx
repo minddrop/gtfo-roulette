@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import ReactDOM from 'react-dom'
-import { mains, maps, melees, specials, tools } from './const'
+import { mains, maps, melees, specials, tools } from './const/rundown5'
 import { chooseMap, returnOneAtRandom } from './util'
 
 const Popup = () => {
